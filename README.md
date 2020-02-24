@@ -1,4 +1,4 @@
-=== I like ===
+#I like#
 Requires at least: 4.0
 Tested up to: 5.3.2
 Stable tag: 
@@ -7,7 +7,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 "I like" plugin will help you to add like and dislike functionality to your post, so you can easily monitor which posts are much liked or disliked by visitors.
 
-== Description ==
+#Description#
 
 "I like" plugin will help you to add like and dislike functionality to your post, so you can easily monitor which posts are much liked or disliked by visitors.
 
@@ -19,7 +19,7 @@ A few notes about the sections above:
 *   Tags - "Like System", "like", "dislike", "reactions"
 *   "Tested up to" 5.3.2
 
-== Installation ==
+#Installation#
 
 Download the plugin, install and get your like-dislike buttons are visible to each of your post.
 
@@ -28,18 +28,18 @@ Download the plugin, install and get your like-dislike buttons are visible to ea
 3. After install, activate the plugin
 4. you can find settings under "I Like" menu in admin area.
 
-== Frequently Asked Questions ==
+#Frequently Asked Questions#
 
-= How to remove text from buttons =
+##How to remove text from buttons##
 
 Just leave fields blank for like and dislike button text in "I Like" setting page
 
-== Screenshots ==
+#Screenshots#
 
 1. screenshot-1.jpg
 2. screenshot-2.jpg
 
-== Changelog ==
+#Changelog#
 
-= 1.0 =
+### 1.0 ###
 * Initial update.
